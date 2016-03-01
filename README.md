@@ -5,4 +5,4 @@
 
 ##
 For second part of assignment, we are to fork a directory and change it locally. 
-For my changes, I have added animations to the circles.html. The directory is svg/circles.html
+For my changes, I have added keyframe animations to the circles.html. The directory is svg/circles.html
